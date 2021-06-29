@@ -1,2 +1,2 @@
-
-void printArray(int arr[], int n){
+ freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
